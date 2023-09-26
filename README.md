@@ -4,5 +4,7 @@
 
 ## Part Two focuses on NoSQL Databases and is further divided into two parts
 
-1. ### Document (MongoDB)
-2. ### Graph (Neo4j)
+### 1.  Document (MongoDB)
+### 2.  Graph (Neo4j)
+
+*I would recommend using [obsidian](obsidian.md) for best experience* 
