@@ -1,3 +1,5 @@
+[[Part 1. 2. Schedules and locks|Next Note]]
+
 # SQL and R DBMS (using Postgres)
 
 ## What is PostgreSQL
